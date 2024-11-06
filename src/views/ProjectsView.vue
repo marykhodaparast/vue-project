@@ -1,8 +1,7 @@
 <template lang="">
   <div>
-     <main>
-       <RouterView/>
-     </main>
+    <h1>Projects Page</h1>
+    <RouterLink to="/">Go to home</RouterLink>
   </div>
 </template>
 <script lang="ts">
@@ -13,5 +12,3 @@ export default {
 <style lang="">
 
 </style>
-
-
